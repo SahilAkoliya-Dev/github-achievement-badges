@@ -9,9 +9,9 @@
 **The most complete, up-to-date, and beginner-friendly guide to every GitHub Achievement Badge.**
 Learn what each badge means, how to earn it, its tiers, and pro tips to collect them all!
 
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/github-achievement-badges?style=for-the-badge&color=yellow&logo=github)](https://github.com/YOUR_USERNAME/github-achievement-badges/stargazers)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202025-brightgreen?style=for-the-badge)](https://github.com/YOUR_USERNAME/github-achievement-badges)
-[![Total Badges](https://img.shields.io/badge/Total%20Badges-11-blue?style=for-the-badge)](https://github.com/YOUR_USERNAME/github-achievement-badges)
+[![GitHub Stars](https://img.shields.io/github/stars/SahilAkoliya-Dev/github-achievement-badges?style=for-the-badge&color=yellow&logo=github)](https://github.com/SahilAkoliya-Dev/github-achievement-badges/stargazers)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202025-brightgreen?style=for-the-badge)](https://github.com/SahilAkoliya-Dev/github-achievement-badges)
+[![Total Badges](https://img.shields.io/badge/Total%20Badges-11-blue?style=for-the-badge)](https://github.com/SahilAkoliya-Dev/github-achievement-badges)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
 ⭐ **Star this repo** so you never lose it!
@@ -354,7 +354,7 @@ This badge has **no tiers** — sponsor once and it's yours!
 You don't need to do anything — GitHub **automatically shows** your earned badges on your profile!
 
 **Here's where to find them:**
-1. Go to your GitHub profile → `github.com/YOUR_USERNAME`
+1. Go to your GitHub profile → `github.com/SahilAkoliya-Dev`
 2. Look at the **left sidebar** beneath your bio and follower count
 3. Earned badges appear as small icons — hover over them to see the name and details!
 
