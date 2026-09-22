@@ -10,13 +10,19 @@
 Learn what each badge means, how to earn it, its tiers, and pro tips to collect them all!
 
 [![GitHub Stars](https://img.shields.io/github/stars/SahilAkoliya-Dev/github-achievement-badges?style=for-the-badge&color=yellow&logo=github)](https://github.com/SahilAkoliya-Dev/github-achievement-badges/stargazers)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202025-brightgreen?style=for-the-badge)](https://github.com/SahilAkoliya-Dev/github-achievement-badges)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-September%202026-brightgreen?style=for-the-badge)](https://github.com/SahilAkoliya-Dev/github-achievement-badges)
 [![Total Badges](https://img.shields.io/badge/Total%20Badges-11-blue?style=for-the-badge)](https://github.com/SahilAkoliya-Dev/github-achievement-badges)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
 ⭐ **Star this repo** so you never lose it!
 
 </div>
+
+---
+
+## 📰 Recent Updates
+
+> **September 2026:** Corrected the **Galaxy Brain** default tier (it's **2** accepted answers, not 1) and clarified the current status of **Heart On Your Sleeve** and **Open Sourcerer**. In early 2026, GitHub briefly re-enabled both due to a backend error, then disabled them again days later — they remain **unreleased/unobtainable** with no official criteria published yet. See their sections below for details.
 
 ---
 
@@ -58,19 +64,21 @@ These badges sit on your **public GitHub profile page** and show the world your 
 
 > A quick overview of every badge available on GitHub right now.
 
-| # | Badge | Name | Difficulty | Has Tiers? |
-|---|-------|------|------------|------------|
-| 1 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="60" alt="GitHub Starstruck Badge"> | **Starstruck** | 🟡 Medium | ✅ Yes |
-| 2 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="60" alt="GitHub Pull Shark Badge"> | **Pull Shark** | 🟢 Easy | ✅ Yes |
-| 3 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="60" alt="GitHub Pair Extraordinaire Badge"> | **Pair Extraordinaire** | 🟢 Easy | ✅ Yes |
-| 4 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="60" alt="GitHub Galaxy Brain Badge"> | **Galaxy Brain** | 🟡 Medium | ✅ Yes |
-| 5 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="60" alt="GitHub YOLO Badge"> | **YOLO** | 🟢 Easy | ❌ No |
-| 6 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="60" alt="GitHub Quickdraw Badge"> | **Quickdraw** | 🟢 Easy | ❌ No |
-| 7 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="60" alt="GitHub Heart on Your Sleeve Badge"> | **Heart On Your Sleeve** | 🟢 Easy | ✅ Yes |
-| 8 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="60" alt="GitHub Open Sourcerer Badge"> | **Open Sourcerer** | 🟡 Medium | ✅ Yes |
-| 9 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="60" alt="GitHub Public Sponsor Badge"> | **Public Sponsor** | 🟡 Medium | ❌ No |
-| 10 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="60" alt="GitHub Arctic Code Vault Badge"> | **Arctic Code Vault Contributor** | 🔴 Unobtainable | ❌ No |
-| 11 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" width="60" alt="GitHub Mars 2020 Contributor Badge"> | **Mars 2020 Helicopter Contributor** | 🔴 Unobtainable | ❌ No |
+| # | Badge | Name | Difficulty | Has Tiers? | Status |
+|---|-------|------|------------|------------|--------|
+| 1 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="60" alt="GitHub Starstruck Badge"> | **Starstruck** | 🟡 Medium | ✅ Yes | 🟢 Earnable |
+| 2 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="60" alt="GitHub Pull Shark Badge"> | **Pull Shark** | 🟢 Easy | ✅ Yes | 🟢 Earnable |
+| 3 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="60" alt="GitHub Pair Extraordinaire Badge"> | **Pair Extraordinaire** | 🟢 Easy | ✅ Yes | 🟢 Earnable |
+| 4 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="60" alt="GitHub Galaxy Brain Badge"> | **Galaxy Brain** | 🟡 Medium | ✅ Yes | 🟢 Earnable |
+| 5 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="60" alt="GitHub YOLO Badge"> | **YOLO** | 🟢 Easy | ❌ No | 🟢 Earnable |
+| 6 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="60" alt="GitHub Quickdraw Badge"> | **Quickdraw** | 🟢 Easy | ❌ No | 🟢 Earnable |
+| 7 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="60" alt="GitHub Heart on Your Sleeve Badge"> | **Heart On Your Sleeve** | ❓ Unknown | ✅ Yes (planned) | 🟠 Disabled |
+| 8 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="60" alt="GitHub Open Sourcerer Badge"> | **Open Sourcerer** | ❓ Unknown | ✅ Yes (planned) | 🟠 Disabled |
+| 9 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="60" alt="GitHub Public Sponsor Badge"> | **Public Sponsor** | 🟡 Medium | ❌ No | 🟢 Earnable |
+| 10 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="60" alt="GitHub Arctic Code Vault Badge"> | **Arctic Code Vault Contributor** | 🔴 Unobtainable | ❌ No | 🔴 Retired |
+| 11 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" width="60" alt="GitHub Mars 2020 Contributor Badge"> | **Mars 2020 Helicopter Contributor** | 🔴 Unobtainable | ❌ No | 🔴 Retired |
+
+> **Status key:** 🟢 Earnable now · 🟠 Temporarily disabled (was briefly live, pulled back by GitHub) · 🔴 Retired (permanently closed)
 
 ---
 
@@ -195,7 +203,7 @@ Co-authored-by: Friend's Name <friends-github-email@example.com>
 #### Tiers:
 | Tier | Accepted Answers Required |
 |------|--------------------------|
-| 🥉 Default | 1 accepted answer |
+| 🥉 Default | 2 accepted answers |
 | 🥈 Bronze | 8 accepted answers |
 | 🥇 Silver | 16 accepted answers |
 | 🏅 Gold | 32 accepted answers |
@@ -251,18 +259,18 @@ This badge has **no tiers**.
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="150" alt="GitHub Heart on Your Sleeve Achievement Badge">
 
-**Awarded when:** You react to something on GitHub using the ❤️ heart emoji reaction.
+**Intended to be awarded when:** You react to something on GitHub using the ❤️ heart emoji reaction.
 
 **What it means:** You spread love in the GitHub community!
 
-> ⚠️ **Note:** This badge is currently **experimental** and may not appear for all users yet.
+> 🟠 **Current status (September 2026): Disabled — not currently obtainable.** GitHub briefly re-enabled this badge in early 2026 due to a backend error, then removed it again days later once they caught the mistake. It has **no official release date** and no confirmed criteria — the tier numbers below are the community's best estimate from before it was pulled, not a guarantee. Don't chase this one yet; there's nothing reliable to farm.
 
-#### How to Earn It:
+#### If/When It Returns, Expected Way to Earn It:
 1. Find any issue, PR, comment, or discussion on GitHub
 2. Click the **😄 emoji reaction** button
 3. Select the **❤️ heart** reaction
 
-#### Tiers:
+#### Community-Estimated Tiers (unconfirmed):
 | Tier | Hearts Given |
 |------|-------------|
 | 🥉 Default | 1 heart reaction |
@@ -276,17 +284,17 @@ This badge has **no tiers**.
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="150" alt="GitHub Open Sourcerer Achievement Badge">
 
-**Awarded when:** You have pull requests merged in **multiple different public repositories**.
+**Intended to be awarded when:** You have pull requests merged in **multiple different public repositories**.
 
 **What it means:** You're not just contributing to one project — you're actively helping the entire open-source ecosystem!
 
-> ⚠️ **Note:** This badge is currently **experimental**.
+> 🟠 **Current status (September 2026): Disabled — not currently obtainable.** Like Heart On Your Sleeve, this badge was briefly re-enabled by mistake in early 2026 and then pulled again. There's no official release date yet, so contributing to many repos right now won't earn it — it's still a good practice for its own sake (and helps toward **Pull Shark**), just don't expect this specific badge to appear.
 
-#### How to Earn It:
+#### If/When It Returns, Expected Way to Earn It:
 1. Contribute to **at least 2 different** public repositories
 2. Get PRs merged in each of them
 
-#### Tiers:
+#### Community-Estimated Tiers (unconfirmed):
 | Tier | Repos Contributed To |
 |------|---------------------|
 | 🥉 Default | 2 repos |
@@ -372,8 +380,8 @@ You don't need to do anything — GitHub **automatically shows** your earned bad
 | **Pair Extraordinaire easily** | Ask a friend to pair-code and add `Co-authored-by:` in the commit message |
 | **Galaxy Brain** | Answer open questions in GitHub Discussions of tools you use daily |
 | **Starstruck** | Build something useful, write a great README, and share on Reddit/Twitter |
-| **Open Sourcerer** | Submit small doc or typo fixes across many different public repos |
-| **Heart On Your Sleeve** | React with ❤️ to issues and PRs you find useful |
+| **Open Sourcerer** 🟠 | Currently disabled — submitting fixes across repos still helps **Pull Shark**, but won't unlock this badge yet |
+| **Heart On Your Sleeve** 🟠 | Currently disabled — no reliable way to earn it until GitHub re-enables it |
 
 ---
 
@@ -398,7 +406,7 @@ You don't need to do anything — GitHub **automatically shows** your earned bad
 > The **Mars 2020 Helicopter Contributor** is arguably rarer. Very few qualifying repos existed, and most contributors were core maintainers of libraries like NumPy.
 
 **Q: Are there new badges coming?**
-> GitHub occasionally adds new badges. "Heart On Your Sleeve" and "Open Sourcerer" are still experimental. Watch [GitHub's blog](https://github.blog) for official announcements!
+> GitHub occasionally adds new badges. "Heart On Your Sleeve" and "Open Sourcerer" exist but are currently **disabled** (briefly went live by accident in early 2026, then were pulled again) — watch [GitHub's blog](https://github.blog) or the [Community Discussions](https://github.com/orgs/community/discussions) for the official re-launch.
 
 **Q: Does starring my own repo count toward Starstruck?**
 > No. GitHub does not count self-stars toward the Starstruck badge.
