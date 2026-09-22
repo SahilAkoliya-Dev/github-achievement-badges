@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏆 GitHub Achievement Badges — Complete Guide
+# 🏆 GitHub Achievement Badges: How to Earn Every Badge (2026 Guide)
 
 </div>
 
@@ -32,17 +32,17 @@ Learn what each badge means, how to earn it, its tiers, and pro tips to collect 
 - [All Badges — Complete List](#-all-github-achievement-badges--complete-list)
 - [Badge Tiers Explained](#-badge-tiers-explained)
 - [Every Badge — Detailed Breakdown](#-every-badge--detailed-breakdown)
-  - [⭐ Starstruck](#-starstruck)
-  - [🔀 Pull Shark](#-pull-shark)
-  - [👥 Pair Extraordinaire](#-pair-extraordinaire)
-  - [🧠 Galaxy Brain](#-galaxy-brain)
-  - [⚡ YOLO](#-yolo)
-  - [🔫 Quickdraw](#-quickdraw)
-  - [❤️ Heart On Your Sleeve](#️-heart-on-your-sleeve)
-  - [🌍 Open Sourcerer](#-open-sourcerer)
-  - [💖 Public Sponsor](#-public-sponsor)
-  - [🌨️ Arctic Code Vault Contributor](#️-arctic-code-vault-contributor)
-  - [🚁 Mars 2020 Helicopter Contributor](#-mars-2020-helicopter-contributor)
+  - [⭐ How to Earn the Starstruck Badge](#starstruck)
+  - [🔀 How to Earn the Pull Shark Badge](#pull-shark)
+  - [👥 How to Earn the Pair Extraordinaire Badge](#pair-extraordinaire)
+  - [🧠 How to Earn the Galaxy Brain Badge](#galaxy-brain)
+  - [⚡ How to Earn the YOLO Badge](#yolo)
+  - [🔫 How to Earn the Quickdraw Badge](#quickdraw)
+  - [❤️ Heart On Your Sleeve (Currently Disabled)](#heart-on-your-sleeve)
+  - [🌍 Open Sourcerer (Currently Disabled)](#open-sourcerer)
+  - [💖 How to Earn the Public Sponsor Badge](#public-sponsor)
+  - [🌨️ Arctic Code Vault Contributor (Retired)](#arctic-code-vault-contributor)
+  - [🚁 Mars 2020 Helicopter Contributor (Retired)](#mars-2020-helicopter-contributor)
 - [How to Display Badges on Your Profile](#-how-to-display-badges-on-your-profile)
 - [Pro Tips to Earn Badges Fast](#-pro-tips-to-earn-badges-fast)
 - [FAQ](#-frequently-asked-questions-faq)
@@ -105,7 +105,8 @@ Some GitHub badges have **multiple tiers** — meaning the more you do, the high
 
 ---
 
-### ⭐ Starstruck
+<a id="starstruck"></a>
+### ⭐ How to Earn the Starstruck Badge
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="150" alt="GitHub Starstruck Achievement Badge">
 
@@ -131,7 +132,8 @@ Some GitHub badges have **multiple tiers** — meaning the more you do, the high
 
 ---
 
-### 🔀 Pull Shark
+<a id="pull-shark"></a>
+### 🔀 How to Earn the Pull Shark Badge
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="150" alt="GitHub Pull Shark Achievement Badge">
 
@@ -158,7 +160,8 @@ Some GitHub badges have **multiple tiers** — meaning the more you do, the high
 
 ---
 
-### 👥 Pair Extraordinaire
+<a id="pair-extraordinaire"></a>
+### 👥 How to Earn the Pair Extraordinaire Badge
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="150" alt="GitHub Pair Extraordinaire Achievement Badge">
 
@@ -186,7 +189,8 @@ Co-authored-by: Friend's Name <friends-github-email@example.com>
 
 ---
 
-### 🧠 Galaxy Brain
+<a id="galaxy-brain"></a>
+### 🧠 How to Earn the Galaxy Brain Badge
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="150" alt="GitHub Galaxy Brain Achievement Badge">
 
@@ -212,7 +216,8 @@ Co-authored-by: Friend's Name <friends-github-email@example.com>
 
 ---
 
-### ⚡ YOLO
+<a id="yolo"></a>
+### ⚡ How to Earn the YOLO Badge
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="150" alt="GitHub YOLO Achievement Badge">
 
@@ -235,7 +240,8 @@ This badge has **no tiers** — you either have it or you don't.
 
 ---
 
-### 🔫 Quickdraw
+<a id="quickdraw"></a>
+### 🔫 How to Earn the Quickdraw Badge
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="150" alt="GitHub Quickdraw Achievement Badge">
 
@@ -255,7 +261,8 @@ This badge has **no tiers**.
 
 ---
 
-### ❤️ Heart On Your Sleeve
+<a id="heart-on-your-sleeve"></a>
+### ❤️ Heart On Your Sleeve (Currently Disabled)
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="150" alt="GitHub Heart on Your Sleeve Achievement Badge">
 
@@ -280,7 +287,8 @@ This badge has **no tiers**.
 
 ---
 
-### 🌍 Open Sourcerer
+<a id="open-sourcerer"></a>
+### 🌍 Open Sourcerer (Currently Disabled)
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="150" alt="GitHub Open Sourcerer Achievement Badge">
 
@@ -306,7 +314,8 @@ This badge has **no tiers**.
 
 ---
 
-### 💖 Public Sponsor
+<a id="public-sponsor"></a>
+### 💖 How to Earn the Public Sponsor Badge
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="150" alt="GitHub Public Sponsor Achievement Badge">
 
@@ -327,7 +336,8 @@ This badge has **no tiers** — sponsor once and it's yours!
 
 ---
 
-### 🌨️ Arctic Code Vault Contributor
+<a id="arctic-code-vault-contributor"></a>
+### 🌨️ Arctic Code Vault Contributor (Retired)
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="150" alt="GitHub Arctic Code Vault Contributor Achievement Badge">
 
@@ -342,7 +352,8 @@ This badge has **no tiers** — sponsor once and it's yours!
 
 ---
 
-### 🚁 Mars 2020 Helicopter Contributor
+<a id="mars-2020-helicopter-contributor"></a>
+### 🚁 Mars 2020 Helicopter Contributor (Retired)
 
 <img align="right" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" width="150" alt="GitHub Mars 2020 Helicopter Contributor Achievement Badge">
 
